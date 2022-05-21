@@ -1,7 +1,7 @@
 rm(list = ls());
 Sys.setlocale(category = 'LC_ALL', locale = 'English_United States')
 
-setwd('C:/Users/dzwu/Documents/study/document/job/shopify')
+#setwd('C:/Users/dzwu/Documents/study/document/job/shopify')
 df = read.csv('2019 Winter Data Science Intern Challenge Data Set - Sheet1.csv')
 
 
